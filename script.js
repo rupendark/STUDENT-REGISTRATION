@@ -1,4 +1,4 @@
-var token = '90932537|-31949277500507623|90949262';
+var token = '90931206|-31949325959343292|90961210';
 var dbname = 'SCHOOL-DB';
 var relation = "STUDENT-TABLE";
 var baseUrl = "http://api.login2explore.com:5577";
