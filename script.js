@@ -1,6 +1,6 @@
 var token = '90931206|-31949325959066314|90961211';
 var dbname = 'SCHOOL-DB';
-var relation = "STUDENT-TABLE";
+var relation = "STUDENT-TABLE1";
 var baseUrl = "http://api.login2explore.com:5577";
 function resetForm() {
     $("#roll").val('')
